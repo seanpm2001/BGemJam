@@ -1,0 +1,6 @@
+💎 New bgemjam challenges: fruit (unnamed)
+▪ Create a gem apple
+▪ Create a gem blue raspberry
+▪ ... etc
+▪ Create a fruit gem of every type
+▪ Get every type of fruit gem on screen at the same time
